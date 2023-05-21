@@ -5,6 +5,7 @@
 - ⚡ Fun fact: Love to trek and huge Avengers fan
 
 **#Technical Skills & Tools**
+
 🚀 I use daily: Javascript, Git, VS Code
 
 💻 I work using: Amazon AWS 
