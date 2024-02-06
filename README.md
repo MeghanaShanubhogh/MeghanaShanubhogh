@@ -6,7 +6,7 @@
 
 **#Technical Skills & Tools**
 
-🚀 I use daily: Nodejs, Javascript, Git, VS Code
+🚀 I use daily: Nodejs, Javascript, TypeScript, Git, VS Code
 
 💻 I work using: Amazon AWS 
 
